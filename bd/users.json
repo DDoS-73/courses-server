@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Admin",
+    "email": "admin@email.com",
+    "password": "admin123",
+    "role": "admin",
+    "id": "85aa767d-73c0-4e23-9a02-27902d418b37"
+  },
+  {
+    "name": "Test User",
+    "email": "user@email.com",
+    "password": "user123",
+    "role": "user",
+    "id": "f1e5fd00-803f-4cc3-893c-37a88fc330fc"
+  },
+  {
+    "name": "Vladyslav",
+    "email": "vp.9433@gmail.com",
+    "password": "qwerty123",
+    "role": "user",
+    "id": "6758f792-c9c4-4a8a-acc5-5977c59d7f09"
+  },
+  {
+    "name": "test",
+    "email": "test@email.com",
+    "password": "test123",
+    "role": "user",
+    "id": "e0a320cc-ab19-4ff5-aa69-10a65966b17c"
+  }
+,{"name":"asd","email":"asd@asd.com","password":"asdasd","role":"user","id":"502d51aa-1afd-4971-a317-d1c25b1306a2"},{"name":"test","email":"test@test.com","password":"admin123","role":"user","id":"7d471c0e-445f-4c1e-a6ce-5561fb3d1622"}]
